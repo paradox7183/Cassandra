@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+argparse; python_version>='3.0'
+pathlib; python_version<'3.4'
+missingno; extra == 'missingno'
+ydata-profiling; extra == 'profiling'
+dask; extra == 'dask'
